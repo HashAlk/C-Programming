@@ -1,4 +1,4 @@
-#Hashim Alkhatab
+#Hashim Alkhatab made this but rajveer helped me
 #Date: November 6th 2023
 #Problem: 2
 #the score average = 0
